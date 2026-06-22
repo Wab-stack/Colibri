@@ -1,0 +1,8 @@
+C:/Users/Wab/Desktop/Qt projects/TZ_Colibri/build/Desktop_Debug/CMakeFiles/TZ_Colibri.dir
+C:/Users/Wab/Desktop/Qt projects/TZ_Colibri/build/Desktop_Debug/CMakeFiles/edit_cache.dir
+C:/Users/Wab/Desktop/Qt projects/TZ_Colibri/build/Desktop_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Wab/Desktop/Qt projects/TZ_Colibri/build/Desktop_Debug/CMakeFiles/list_install_components.dir
+C:/Users/Wab/Desktop/Qt projects/TZ_Colibri/build/Desktop_Debug/CMakeFiles/install.dir
+C:/Users/Wab/Desktop/Qt projects/TZ_Colibri/build/Desktop_Debug/CMakeFiles/install/local.dir
+C:/Users/Wab/Desktop/Qt projects/TZ_Colibri/build/Desktop_Debug/CMakeFiles/TZ_Colibri_autogen_timestamp_deps.dir
+C:/Users/Wab/Desktop/Qt projects/TZ_Colibri/build/Desktop_Debug/CMakeFiles/TZ_Colibri_autogen.dir
